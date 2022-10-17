@@ -5,7 +5,7 @@ services:
     depends_on:
       - back-end
     container_name: react-nginx
-    build: ./my-app
+    build: ./front-end
     ports:
       - "80:80"
     environment:
@@ -14,7 +14,7 @@ services:
     depends_on:
       - db
     container_name: python-api
-    build: ./app
+    build: ./back-end
     links:
       - db
     ports:
