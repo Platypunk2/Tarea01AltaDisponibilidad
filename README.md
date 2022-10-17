@@ -41,6 +41,9 @@ localhost:80
 ```
 Por ultimo a continuacion se puede observar un video, el cual muestra el funcionamineto del sistema:
 
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/xsOmPFfj9E0" type="video/mp4">
+</video>
 
 
 
