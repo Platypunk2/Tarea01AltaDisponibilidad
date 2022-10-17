@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">:sparkles:Alta Disponibilidad: Tarea 1:</h3>
+  <h3 align="center">:sparkles:Alta Disponibilidad: Tarea 1:sparkles:</h3>
 
   <p align="center">
     :sparkles:Lucas Almonacid y Benjamín Fernández:sparkles:
